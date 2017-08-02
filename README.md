@@ -12,6 +12,8 @@ python + opencv = script to compare 2 images
 # outputs    
 A score from 1.0 (equal images) to 0.0 (totally different images).
 
+![Screenshot](screenshot.png)
+
 # thanks   
 This code is an adaptation from this source:    
 http://www.pyimagesearch.com/2017/06/19/image-difference-with-opencv-and-python/
